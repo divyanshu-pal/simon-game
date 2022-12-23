@@ -1,0 +1,150 @@
+body {
+    text-align: center;
+    background-color: #011F3F;
+  }
+  
+  #level-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin:  5%;
+    color: #FEF2BF;
+  }
+  
+  .container {
+    display: block;
+    width: 50%;
+    margin: auto;
+  
+  }
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  
+/* 
+  .btn:hover {
+    background-color: #d2dbd4;
+  } */
+
+  /* .red:active {
+    background-color: red;
+    box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+  }
+
+
+  .green:active {
+    background-color: green;
+    box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+  }
+
+  .yellow:active {
+    background-color: yellow;
+    box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+  }
+
+  .blue:active {
+    background-color: blue;
+    box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  
+<button class="button-3" role="button">Button 3</button>
+
+.button-3 {
+  appearance: none;
+  background-color: #2ea44f;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.button-3:focus:not(:focus-visible):not(.focus-visible) {
+  box-shadow: none;
+  outline: none;
+}
+
+
+
+.button-3:focus {
+  box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
+  outline: none;
+}
+
+.button-3:disabled {
+  background-color: #94d3a2;
+  border-color: rgba(27, 31, 35, .1);
+  color: rgba(255, 255, 255, .8);
+  cursor: default;
+}
+
+.button-3:active {
+  background-color: #298e46;
+  box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+} */
